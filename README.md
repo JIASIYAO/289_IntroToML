@@ -72,3 +72,5 @@ HW13: Boosting and CNN
 * Q2: Gradient boosting and early stopping
 * Q3: CNNs on Fruits and Veggies
 * Q4: Running Time of k-Nearest Neighbour Search Methods
+
+Final Project: [Learning Many Body Wavefunction](https://github.com/JIASIYAO/289_IntroToML/blob/master/final_project/wave_function_neural_net.ipynb)
