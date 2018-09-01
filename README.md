@@ -55,7 +55,7 @@ HW9: LDA and QDA
 
 HW10: Classification
 * Q2: Regularized and Kernel k-Means
-* Q3: Linear Methods on Fruits and Veggies
+* Q3: [Linear Methods on Fruits and Veggies](https://github.com/JIASIYAO/289_IntroToML/blob/master/hw10/fruit_veg/Classification_of_Fruits_and_Vegies.ipynb)
 * Q4: Expectation Maximization (EM) Algorithm: A closer look!
 
 HW11: SVM
